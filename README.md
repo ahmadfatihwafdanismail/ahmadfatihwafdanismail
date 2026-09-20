@@ -1,5 +1,21 @@
-# 💫 About Me:
-   Portfolio — Ahmad Fatih<br>   Filmmaker & Web Developer<br><br>Selamat datang di repositori portofolio saya! Di sini terdapat rangkuman dari karya sinematografi, pembuatan film, serta proyek pengembangan web yang telah saya kerjakan.<br><br>   Tentang Saya<br>Halo! Saya Ahmad Fatih, seorang yang berfokus di bidang pembuatan film (filmmaking) dan pengembangan web (web development). Saya memadukan visual storytelling dengan teknologi web modern untuk menciptakan pengalaman digital yang menarik.<br><br>    Filmmaking: Directing, Video Editing, Cinematography, Color Grading.<br>    Web Development: Front-End Development, Responsive Design, UI/UX.<br>    Teknologi & Tool<br>Videography & Post-Production: Premiere Pro, After Effects, Capcut.<br>Web Development: HTML, CSS, JavaScript.<br>Tools & Platform: Git, GitHub, VS Code.<br><br> Kontak & Media Sosial<br>Instagram: [ahmaddfatihh](https://instagram.com]<br>Email: nasigoreng5ksedap@gmail.com
+# Portfolio — Ahmad Fatih
+
+### Filmmaker & Web Developer
+
+Selamat datang di portofolio saya. Saya menggabungkan **filmmaking, visual storytelling, dan web development** untuk menciptakan karya digital yang kreatif dan modern.
+
+**Keahlian**
+
+* Filmmaking: Directing, Editing, Cinematography, Color Grading
+* Web: HTML, CSS, JavaScript, Responsive Design, UI/UX
+
+**Tools**
+Premiere Pro · After Effects · CapCut · VS Code · Git · GitHub
+
+**Kontak**
+Instagram: @ahmaddfatihh
+Email: [nasigoreng5ksedap@gmail.com](mailto:nasigoreng5ksedap@gmail.com)
+
 
 
 ## 🌐 Socials:
